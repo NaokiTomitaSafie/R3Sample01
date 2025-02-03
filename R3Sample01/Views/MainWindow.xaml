@@ -41,6 +41,10 @@
             </TabItem>
             <TabItem
                 Style="{StaticResource NoHeaderTabItemStyleBase}">
+                <pages:QueueWork/>
+            </TabItem>
+            <TabItem
+                Style="{StaticResource NoHeaderTabItemStyleBase}">
                 <pages:Collection/>
             </TabItem>
             <TabItem
